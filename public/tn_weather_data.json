@@ -1,0 +1,45 @@
+{
+    "districts": [
+      {
+        "name_en": "Chennai",
+        "name_ta": "சென்னை",
+        "avg_temperature_celsius": 30,
+        "avg_rainfall_mm": 1300,
+        "description_en": "Hot and humid climate. Experiences both southwest and northeast monsoons. Summers are hot, and winters are mild.",
+        "description_ta": "வெப்பமான மற்றும் ஈரப்பதமான காலநிலை. தென்மேற்கு மற்றும் வடகிழக்கு பருவமழையை அனுபவிக்கிறது. கோடையில் வெப்பமாகவும், குளிர்காலத்தில் மிதமாகவும் இருக்கும்."
+      },
+      {
+        "name_en": "Madurai",
+        "name_ta": "மதுரை",
+        "avg_temperature_celsius": 32,
+        "avg_rainfall_mm": 850,
+        "description_en": "Hot and dry climate. Receives most of its rainfall during the northeast monsoon. Summers are very hot.",
+        "description_ta": "வெப்பமான மற்றும் வறண்ட காலநிலை. வடகிழக்கு பருவமழையின் போது பெரும்பாலான மழையைப் பெறுகிறது. கோடையில் மிகவும் வெப்பமாக இருக்கும்."
+      },
+      {
+        "name_en": "Tirunelveli",
+        "name_ta": "திருநெல்வேலி",
+        "avg_temperature_celsius": 30,
+        "avg_rainfall_mm": 1000,
+        "description_en": "Hot and humid climate.  Experiences both southwest and northeast monsoons.  The climate is generally moderate.",
+        "description_ta": "வெப்பமான மற்றும் ஈரப்பதமான காலநிலை. தென்மேற்கு மற்றும் வடகிழக்கு பருவமழையை அனுபவிக்கிறது. காலநிலை பொதுவாக மிதமானது."
+      },
+      {
+        "name_en": "Tiruchirappalli",
+        "name_ta": "திருச்சிராப்பள்ளி",
+        "avg_temperature_celsius": 33,
+        "avg_rainfall_mm": 800,
+        "description_en": "Hot and dry climate. Experiences high temperatures, especially during summer.  Rainfall is mainly during the northeast monsoon.",
+        "description_ta": "வெப்பமான மற்றும் வறண்ட காலநிலை. குறிப்பாக கோடையில் அதிக வெப்பநிலையை அனுபவிக்கிறது. மழைப்பொழிவு முக்கியமாக வடகிழக்கு பருவமழையின் போது இருக்கும்."
+      },
+       {
+        "name_en": "Kanyakumari",
+        "name_ta": "கன்னியாகுமரி",
+        "avg_temperature_celsius": 29,
+        "avg_rainfall_mm": 1400,
+        "description_en": "Equable climate with high humidity.  Receives rainfall from both the southwest and northeast monsoons.",
+        "description_ta": "அதிக ஈரப்பதத்துடன் கூடிய சமமான காலநிலை. தென்மேற்கு மற்றும் வடகிழக்கு பருவமழை இரண்டிலிருந்தும் மழையைப் பெறுகிறது."
+      }
+    ]
+  }
+  
